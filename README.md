@@ -4,6 +4,13 @@
 - Update contacts
 - Delete contacts
 
+## Roadmap
+
+- [x] Create contact
+- [ ] List contacts
+- [ ] Update contact
+- [ ] Delete contact
+
 
 Simple CRUD application for managing contacts using Python and MySQL.
 
