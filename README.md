@@ -1,2 +1,26 @@
 # python-mysql-contact-crud
-Minha primeira tentativa de criar um crud conectado no sql
+# Python MySQL Contact CRUD
+
+Simple CRUD application for managing contacts using Python and MySQL.
+
+## Features
+
+- Add contacts
+- Input validation
+- MySQL database integration
+
+## Technologies
+
+- Python
+- MySQL
+- mysql-connector-python
+
+## Database
+
+Run the SQL script inside the `database` folder to create the database and table.
+
+## Run the project
+
+```bash
+pip install -r requirements.txt
+python src/crud.py
