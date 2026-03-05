@@ -1,6 +1,8 @@
 # python-mysql-contact-crud
 # Python MySQL Contact CRUD
 #I will update with the contact update and removal options soon
+
+
 Simple CRUD application for managing contacts using Python and MySQL.
 
 ## Features
