@@ -4,7 +4,7 @@ import mysql.connector
 conexao = mysql.connector.connect(
     host="localhost",
     user="root",
-    password="@Ndre123",
+    password="(removi)",
     database="agenda_contatos"
 )
 
@@ -97,3 +97,7 @@ def remover_contato():
         return
     
 
+<<<<<<< HEAD
+=======
+add_contatos()
+>>>>>>> b9eced97825a52f1b2c6426c5e9f68d5fdd0b400
